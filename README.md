@@ -1,7 +1,7 @@
 # Sentiment Analysis of YouTube Comments with BERT
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)]()
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://hub.docker.com/repositories/rahulk98/youtubecomment-sentiment-predictor)
 [![Model on Hugging Face](https://img.shields.io/badge/HF-Model-blue)](https://huggingface.co/rahulk98/bert-finetuned-youtube_sentiment_analysis)
 
 ## Overview
