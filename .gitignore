@@ -1,3 +1,5 @@
 YoutubeCommentsDataSet.csv
 bert*
 wandb*
+.idea
+**/__pycache__/
